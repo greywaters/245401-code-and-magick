@@ -1,7 +1,7 @@
-# Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дарья Верещагина](https://up.htmlacademy.ru/javascript/7/user/245401).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Ермаков](https://up.htmlacademy.ru/javascript/7/user/195904).
 
 ---
 
